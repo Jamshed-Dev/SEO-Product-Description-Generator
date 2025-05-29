@@ -1,0 +1,6 @@
+{
+  "name": "SEO Product Description Generator",
+  "description": "An application to generate SEO-friendly product descriptions for Korean beauty products using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

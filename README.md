@@ -2,6 +2,9 @@
 
 **FinesseGlow Content Spark** is a web application designed to generate SEO-friendly product descriptions and engaging social media posts for Korean beauty products. It leverages the power of the Google Gemini API to create compelling content tailored to your needs.
 
+## Test URL
+https://description-gen.netlify.app/
+
 ## 🌟 Features
 
 *   **Dual Content Generation**:
